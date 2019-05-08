@@ -4,6 +4,25 @@ react antd layout 菜单布局结构布局
 
 地址 https://blog.csdn.net/u012907049/article/details/73240865
 
+## 总结
+
+1、环境安装
+
+### `npm install -g create-react-app yarn`
+
+2、创建项目
+
+### `create-react-app antd-demo`
+
+3、引入Ant design的组件库
+
+### `yarn add antd`
+
+
+3、创建组件页面Navi
+
+### `Navi.js Navi.css`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
