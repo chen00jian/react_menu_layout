@@ -1,5 +1,39 @@
 react antd layout 菜单布局结构布局
 
+## 使用
+
+1. 下载项目代码。
+
+```bash
+git clone https://github.com/chen00jian/react_menu_layout.git react_menu_layout && cd react_menu_layout
+```
+```window 要分开执行
+git clone https://github.com/chen00jian/react_menu_layout.git react_menu_layout
+cd react_menu_layout
+```
+
+2. 进入目录安装依赖，国内用户推荐使用 [cnpm](https://cnpmjs.org) 进行加速。
+
+```bash
+yarn install
+```
+
+或者
+
+```bash
+npm install
+```
+
+3. 启动本地服务器。
+
+```bash
+npm run start
+```
+
+4. 启动完成后打开浏览器访问 [http://localhost:3000](http://localhost:3000)。
+
+
+
 参考资料：开发你的第一个React + Ant Design网页(一、配置+编写主页)
 
 地址 https://blog.csdn.net/u012907049/article/details/73240865
